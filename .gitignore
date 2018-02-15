@@ -1,2 +1,9 @@
-.Rhistory
-.Rdata
+**.DS_Store
+**.Rapp.history
+**.Rhistory
+**.RData
+**.dbf
+**.prj
+**.shp
+**.shx
+**.qpj
